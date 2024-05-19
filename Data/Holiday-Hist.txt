@@ -1,0 +1,346 @@
+Date;DayOfWeek;Name;Type
+2010 1 jan;vendredi;New Year's Day;National holiday
+2010 11 jan;lundi;Anniversary of the Independence Manifesto;National holiday
+2010 14 jan;jeudi;Amazigh New Year;Observance
+2010 26 fév;vendredi;The Prophet Muhammad's Birthday;National holiday
+2010 20 mar;samedi;March Equinox;Season
+2010 1 mai;samedi;Labour Day/May Day;National holiday
+2010 2 mai;dimanche;Daylight Saving Time starts;Clock change/Daylight Saving Time
+2010 21 juin;lundi;June Solstice;Season
+2010 30 juil;vendredi;Feast of the Throne;National holiday
+2010 8 aoû;dimanche;Daylight Saving Time ends;Clock change/Daylight Saving Time
+2010 12 aoû;jeudi;Ramadan Start;Observance
+2010 14 aoû;samedi;Anniversary of the Recovery Oued Ed-Dahab;National holiday
+2010 20 aoû;vendredi;Anniversary of the Revolution of the King and the People;National holiday
+2010 21 aoû;samedi;Youth Day;National holiday
+2010 10 sep;vendredi;Eid al-Fitr;National holiday
+2010 11 sep;samedi;Eid al-Fitr holiday;National holiday
+2010 23 sep;jeudi;September Equinox;Season
+2010 6 nov;samedi;Anniversary of the Green March;National holiday
+2010 17 nov;mercredi;Eid al-Adha;National holiday
+2010 18 nov;jeudi;Independence Day;National holiday
+2010 18 nov;jeudi;Eid al-Adha Holiday;National holiday
+2010 8 déc;mercredi;Hijra New Year;National holiday
+2010 21 déc;mardi;December Solstice;Season
+2011 1 jan;samedi;New Year's Day;National holiday
+2011 11 jan;mardi;Anniversary of the Independence Manifesto;National holiday
+2011 14 jan;vendredi;Amazigh New Year;Observance
+2011 16 fév;mercredi;The Prophet Muhammad's Birthday;National holiday
+2011 20 mar;dimanche;March Equinox;Season
+2011 3 avr;dimanche;Daylight Saving Time starts;Clock change/Daylight Saving Time
+2011 1 mai;dimanche;Labour Day/May Day;National holiday
+2011 21 juin;mardi;June Solstice;Season
+2011 30 juil;samedi;Feast of the Throne;National holiday
+2011 31 juil;dimanche;Daylight Saving Time ends;Clock change/Daylight Saving Time
+2011 2 aoû;mardi;Ramadan Start;Observance
+2011 14 aoû;dimanche;Anniversary of the Recovery Oued Ed-Dahab;National holiday
+2011 20 aoû;samedi;Anniversary of the Revolution of the King and the People;National holiday
+2011 21 aoû;dimanche;Youth Day;National holiday
+2011 31 aoû;mercredi;Eid al-Fitr;National holiday
+2011 1 sep;jeudi;Eid al-Fitr holiday;National holiday
+2011 23 sep;vendredi;September Equinox;Season
+2011 6 nov;dimanche;Anniversary of the Green March;National holiday
+2011 7 nov;lundi;Eid al-Adha;National holiday
+2011 8 nov;mardi;Eid al-Adha Holiday;National holiday
+2011 18 nov;vendredi;Independence Day;National holiday
+2011 27 nov;dimanche;Hijra New Year;National holiday
+2011 22 déc;jeudi;December Solstice;Season
+2012 1 jan;dimanche;New Year's Day;National holiday
+2012 11 jan;mercredi;Anniversary of the Independence Manifesto;National holiday
+2012 14 jan;samedi;Amazigh New Year;Observance
+2012 5 fév;dimanche;The Prophet Muhammad's Birthday;National holiday
+2012 20 mar;mardi;March Equinox;Season
+2012 29 avr;dimanche;Daylight Saving Time starts;Clock change/Daylight Saving Time
+2012 1 mai;mardi;Labour Day/May Day;National holiday
+2012 21 juin;jeudi;June Solstice;Season
+2012 20 juil;vendredi;Daylight Saving Time ends;Clock change/Daylight Saving Time
+2012 21 juil;samedi;Ramadan Start;Observance
+2012 30 juil;lundi;Feast of the Throne;National holiday
+2012 14 aoû;mardi;Anniversary of the Recovery Oued Ed-Dahab;National holiday
+2012 19 aoû;dimanche;Eid al-Fitr;National holiday
+2012 20 aoû;lundi;Anniversary of the Revolution of the King and the People;National holiday
+2012 20 aoû;lundi;Eid al-Fitr holiday;National holiday
+2012 20 aoû;lundi;Daylight Saving Time starts;Clock change/Daylight Saving Time
+2012 21 aoû;mardi;Youth Day;National holiday
+2012 22 sep;samedi;September Equinox;Season
+2012 30 sep;dimanche;Daylight Saving Time ends;Clock change/Daylight Saving Time
+2012 26 oct;vendredi;Eid al-Adha;National holiday
+2012 27 oct;samedi;Eid al-Adha Holiday;National holiday
+2012 6 nov;mardi;Anniversary of the Green March;National holiday
+2012 15 nov;jeudi;Hijra New Year;National holiday
+2012 18 nov;dimanche;Independence Day;National holiday
+2012 21 déc;vendredi;December Solstice;Season
+2013 1 jan;mardi;New Year's Day;National holiday
+2013 11 jan;vendredi;Anniversary of the Independence Manifesto;National holiday
+2013 14 jan;lundi;Amazigh New Year;Observance
+2013 24 jan;jeudi;The Prophet Muhammad's Birthday;National holiday
+2013 20 mar;mercredi;March Equinox;Season
+2013 28 avr;dimanche;Daylight Saving Time starts;Clock change/Daylight Saving Time
+2013 1 mai;mercredi;Labour Day/May Day;National holiday
+2013 21 juin;vendredi;June Solstice;Season
+2013 7 juil;dimanche;Daylight Saving Time ends;Clock change/Daylight Saving Time
+2013 10 juil;mercredi;Ramadan Start;Observance
+2013 30 juil;mardi;Feast of the Throne;National holiday
+2013 8 aoû;jeudi;Eid al-Fitr;National holiday
+2013 9 aoû;vendredi;Eid al-Fitr holiday;National holiday
+2013 10 aoû;samedi;Daylight Saving Time starts;Clock change/Daylight Saving Time
+2013 14 aoû;mercredi;Anniversary of the Recovery Oued Ed-Dahab;National holiday
+2013 20 aoû;mardi;Anniversary of the Revolution of the King and the People;National holiday
+2013 21 aoû;mercredi;Youth Day;National holiday
+2013 22 sep;dimanche;September Equinox;Season
+2013 15 oct;mardi;Eid al-Adha;National holiday
+2013 16 oct;mercredi;Eid al-Adha Holiday;National holiday
+2013 27 oct;dimanche;Daylight Saving Time ends;Clock change/Daylight Saving Time
+2013 5 nov;mardi;Hijra New Year;National holiday
+2013 6 nov;mercredi;Anniversary of the Green March;National holiday
+2013 18 nov;lundi;Independence Day;National holiday
+2013 21 déc;samedi;December Solstice;Season
+2014 1 jan;mercredi;New Year's Day;National holiday
+2014 11 jan;samedi;Anniversary of the Independence Manifesto;National holiday
+2014 14 jan;mardi;Amazigh New Year;Observance
+2014 14 jan;mardi;The Prophet Muhammad's Birthday;National holiday
+2014 20 mar;jeudi;March Equinox;Season
+2014 30 mar;dimanche;Daylight Saving Time starts;Clock change/Daylight Saving Time
+2014 1 mai;jeudi;Labour Day/May Day;National holiday
+2014 21 juin;samedi;June Solstice;Season
+2014 28 juin;samedi;Daylight Saving Time ends;Clock change/Daylight Saving Time
+2014 29 juin;dimanche;Ramadan Start;Observance
+2014 28 juil;lundi;Eid al-Fitr holiday;Government Holiday
+2014 29 juil;mardi;Eid al-Fitr;National holiday
+2014 30 juil;mercredi;Feast of the Throne;National holiday
+2014 30 juil;mercredi;Eid al-Fitr holiday;National holiday
+2014 2 aoû;samedi;Daylight Saving Time starts;Clock change/Daylight Saving Time
+2014 14 aoû;jeudi;Anniversary of the Recovery Oued Ed-Dahab;National holiday
+2014 20 aoû;mercredi;Anniversary of the Revolution of the King and the People;National holiday
+2014 21 aoû;jeudi;Youth Day;National holiday
+2014 23 sep;mardi;September Equinox;Season
+2014 5 oct;dimanche;Eid al-Adha;National holiday
+2014 6 oct;lundi;Eid al-Adha Holiday;National holiday
+2014 26 oct;dimanche;Hijra New Year;National holiday
+2014 26 oct;dimanche;Daylight Saving Time ends;Clock change/Daylight Saving Time
+2014 6 nov;jeudi;Anniversary of the Green March;National holiday
+2014 18 nov;mardi;Independence Day;National holiday
+2014 21 déc;dimanche;December Solstice;Season
+2015 1 jan;jeudi;New Year's Day;National holiday
+2015 4 jan;dimanche;The Prophet Muhammad's Birthday;National holiday
+2015 5 jan;lundi;The Prophet Muhammad's Birthday Holiday;Government Holiday
+2015 11 jan;dimanche;Anniversary of the Independence Manifesto;National holiday
+2015 14 jan;mercredi;Amazigh New Year;Observance
+2015 20 mar;vendredi;March Equinox;Season
+2015 29 mar;dimanche;Daylight Saving Time starts;Clock change/Daylight Saving Time
+2015 1 mai;vendredi;Labour Day/May Day;National holiday
+2015 14 juin;dimanche;Daylight Saving Time ends;Clock change/Daylight Saving Time
+2015 18 juin;jeudi;Ramadan Start;Observance
+2015 21 juin;dimanche;June Solstice;Season
+2015 18 juil;samedi;Eid al-Fitr;National holiday
+2015 19 juil;dimanche;Eid al-Fitr holiday;National holiday
+2015 19 juil;dimanche;Daylight Saving Time starts;Clock change/Daylight Saving Time
+2015 30 juil;jeudi;Feast of the Throne;National holiday
+2015 14 aoû;vendredi;Anniversary of the Recovery Oued Ed-Dahab;National holiday
+2015 20 aoû;jeudi;Anniversary of the Revolution of the King and the People;National holiday
+2015 21 aoû;vendredi;Youth Day;National holiday
+2015 23 sep;mercredi;Eid al-Adha;National holiday
+2015 23 sep;mercredi;September Equinox;Season
+2015 24 sep;jeudi;Eid al-Adha Holiday;National holiday
+2015 15 oct;jeudi;Hijra New Year;National holiday
+2015 25 oct;dimanche;Daylight Saving Time ends;Clock change/Daylight Saving Time
+2015 6 nov;vendredi;Anniversary of the Green March;National holiday
+2015 18 nov;mercredi;Independence Day;National holiday
+2015 22 déc;mardi;December Solstice;Season
+2015 24 déc;jeudi;The Prophet Muhammad's Birthday;National holiday
+2016 1 jan;vendredi;New Year's Day;National holiday
+2016 11 jan;lundi;Anniversary of the Independence Manifesto;National holiday
+2016 14 jan;jeudi;Amazigh New Year;Observance
+2016 20 mar;dimanche;March Equinox;Season
+2016 27 mar;dimanche;Daylight Saving Time starts;Clock change/Daylight Saving Time
+2016 1 mai;dimanche;Labour Day/May Day;National holiday
+2016 5 juin;dimanche;Daylight Saving Time ends;Clock change/Daylight Saving Time
+2016 7 juin;mardi;Ramadan Start;Observance
+2016 20 juin;lundi;June Solstice;Season
+2016 7 juil;jeudi;Eid al-Fitr;National holiday
+2016 8 juil;vendredi;Eid al-Fitr holiday;National holiday
+2016 10 juil;dimanche;Daylight Saving Time starts;Clock change/Daylight Saving Time
+2016 30 juil;samedi;Feast of the Throne;National holiday
+2016 14 aoû;dimanche;Anniversary of the Recovery Oued Ed-Dahab;National holiday
+2016 20 aoû;samedi;Anniversary of the Revolution of the King and the People;National holiday
+2016 21 aoû;dimanche;Youth Day;National holiday
+2016 13 sep;mardi;Eid al-Adha;National holiday
+2016 14 sep;mercredi;Eid al-Adha Holiday;National holiday
+2016 22 sep;jeudi;September Equinox;Season
+2016 3 oct;lundi;Hijra New Year;National holiday
+2016 30 oct;dimanche;Daylight Saving Time ends;Clock change/Daylight Saving Time
+2016 6 nov;dimanche;Anniversary of the Green March;National holiday
+2016 18 nov;vendredi;Independence Day;National holiday
+2016 12 déc;lundi;The Prophet Muhammad's Birthday;National holiday
+2016 21 déc;mercredi;December Solstice;Season
+2017 1 jan;dimanche;New Year's Day;National holiday
+2017 11 jan;mercredi;Anniversary of the Independence Manifesto;National holiday
+2017 14 jan;samedi;Amazigh New Year;Observance
+2017 20 mar;lundi;March Equinox;Season
+2017 26 mar;dimanche;Daylight Saving Time starts;Clock change/Daylight Saving Time
+2017 1 mai;lundi;Labour Day/May Day;National holiday
+2017 21 mai;dimanche;Daylight Saving Time ends;Clock change/Daylight Saving Time
+2017 27 mai;samedi;Ramadan Start;Observance
+2017 21 juin;mercredi;June Solstice;Season
+2017 26 juin;lundi;Eid al-Fitr;National holiday
+2017 27 juin;mardi;Eid al-Fitr holiday;National holiday
+2017 2 juil;dimanche;Daylight Saving Time starts;Clock change/Daylight Saving Time
+2017 30 juil;dimanche;Feast of the Throne;National holiday
+2017 14 aoû;lundi;Anniversary of the Recovery Oued Ed-Dahab;National holiday
+2017 20 aoû;dimanche;Anniversary of the Revolution of the King and the People;National holiday
+2017 21 aoû;lundi;Youth Day;National holiday
+2017 2 sep;samedi;Eid al-Adha;National holiday
+2017 3 sep;dimanche;Eid al-Adha Holiday;National holiday
+2017 22 sep;vendredi;Hijra New Year;National holiday
+2017 22 sep;vendredi;September Equinox;Season
+2017 29 oct;dimanche;Daylight Saving Time ends;Clock change/Daylight Saving Time
+2017 6 nov;lundi;Anniversary of the Green March;National holiday
+2017 18 nov;samedi;Independence Day;National holiday
+2017 1 déc;vendredi;The Prophet Muhammad's Birthday;National holiday
+2017 21 déc;jeudi;December Solstice;Season
+2018 1 jan;lundi;New Year's Day;National holiday
+2018 11 jan;jeudi;Anniversary of the Independence Manifesto;National holiday
+2018 14 jan;dimanche;Amazigh New Year;Observance
+2018 20 mar;mardi;March Equinox;Season
+2018 25 mar;dimanche;Daylight Saving Time starts;Clock change/Daylight Saving Time
+2018 1 mai;mardi;Labour Day/May Day;National holiday
+2018 13 mai;dimanche;Daylight Saving Time ends;Clock change/Daylight Saving Time
+2018 17 mai;jeudi;Ramadan Start;Observance
+2018 15 juin;vendredi;Eid al-Fitr;National holiday
+2018 16 juin;samedi;Eid al-Fitr holiday;National holiday
+2018 17 juin;dimanche;Daylight Saving Time starts;Clock change/Daylight Saving Time
+2018 21 juin;jeudi;June Solstice;Season
+2018 30 juil;lundi;Feast of the Throne;National holiday
+2018 14 aoû;mardi;Anniversary of the Recovery Oued Ed-Dahab;National holiday
+2018 20 aoû;lundi;Anniversary of the Revolution of the King and the People;National holiday
+2018 21 aoû;mardi;Youth Day;National holiday
+2018 22 aoû;mercredi;Eid al-Adha;National holiday
+2018 23 aoû;jeudi;Eid al-Adha Holiday;National holiday
+2018 12 sep;mercredi;Hijra New Year;National holiday
+2018 23 sep;dimanche;September Equinox;Season
+2018 28 oct;dimanche;Daylight Saving Time ends;Clock change/Daylight Saving Time
+2018 6 nov;mardi;Anniversary of the Green March;National holiday
+2018 18 nov;dimanche;Independence Day;National holiday
+2018 20 nov;mardi;The Prophet Muhammad's Birthday;National holiday
+2018 21 déc;vendredi;December Solstice;Season
+2019 1 jan;mardi;New Year's Day;National holiday
+2019 11 jan;vendredi;Anniversary of the Independence Manifesto;National holiday
+2019 14 jan;lundi;Amazigh New Year;Observance
+2019 20 mar;mercredi;March Equinox;Season
+2019 1 mai;mercredi;Labour Day/May Day;National holiday
+2019 7 mai;mardi;Ramadan Start;Observance
+2019 5 juin;mercredi;Eid al-Fitr;National holiday
+2019 6 juin;jeudi;Eid al-Fitr holiday;National holiday
+2019 7 juin;vendredi;Eid al-Fitr holiday;Government Holiday
+2019 9 juin;dimanche;Daylight Saving Time starts;Clock change/Daylight Saving Time
+2019 21 juin;vendredi;June Solstice;Season
+2019 30 juil;mardi;Feast of the Throne;National holiday
+2019 12 aoû;lundi;Eid al-Adha;National holiday
+2019 13 aoû;mardi;Eid al-Adha Holiday;National holiday
+2019 14 aoû;mercredi;Anniversary of the Recovery Oued Ed-Dahab;National holiday
+2019 20 aoû;mardi;Anniversary of the Revolution of the King and the People;National holiday
+2019 21 aoû;mercredi;Youth Day;National holiday
+2019 31 aoû;samedi;Hijra New Year;National holiday
+2019 23 sep;lundi;September Equinox;Season
+2019 6 nov;mercredi;Anniversary of the Green March;National holiday
+2019 10 nov;dimanche;The Prophet Muhammad's Birthday;National holiday
+2019 11 nov;lundi;The Prophet Muhammad's Birthday Holiday;Government Holiday
+2019 18 nov;lundi;Independence Day;National holiday
+2019 22 déc;dimanche;December Solstice;Season
+2020 1 jan;mercredi;New Year's Day;National holiday
+2020 11 jan;samedi;Anniversary of the Independence Manifesto;National holiday
+2020 14 jan;mardi;Amazigh New Year;Observance
+2020 20 mar;vendredi;March Equinox;Season
+2020 19 avr;dimanche;Daylight Saving Time ends;Clock change/Daylight Saving Time
+2020 25 avr;samedi;Ramadan Start;Observance
+2020 1 mai;vendredi;Labour Day/May Day;National holiday
+2020 24 mai;dimanche;Eid al-Fitr;National holiday
+2020 25 mai;lundi;Eid al-Fitr holiday;National holiday
+2020 31 mai;dimanche;Daylight Saving Time starts;Clock change/Daylight Saving Time
+2020 20 juin;samedi;June Solstice;Season
+2020 30 juil;jeudi;Feast of the Throne;National holiday
+2020 31 juil;vendredi;Eid al-Adha;National holiday
+2020 1 aoû;samedi;Eid al-Adha Holiday;National holiday
+2020 14 aoû;vendredi;Anniversary of the Recovery Oued Ed-Dahab;National holiday
+2020 20 aoû;jeudi;Anniversary of the Revolution of the King and the People;National holiday
+2020 21 aoû;vendredi;Youth Day;National holiday
+2020 21 aoû;vendredi;Hijra New Year;National holiday
+2020 22 sep;mardi;September Equinox;Season
+2020 29 oct;jeudi;The Prophet Muhammad's Birthday;National holiday
+2020 30 oct;vendredi;The Prophet Muhammad's Birthday Holiday;National holiday
+2020 6 nov;vendredi;Anniversary of the Green March;National holiday
+2020 18 nov;mercredi;Independence Day;National holiday
+2020 21 déc;lundi;December Solstice;Season
+2021 1 jan;vendredi;New Year's Day;National holiday
+2021 11 jan;lundi;Anniversary of the Independence Manifesto;National holiday
+2021 14 jan;jeudi;Amazigh New Year;Observance
+2021 20 mar;samedi;March Equinox;Season
+2021 11 avr;dimanche;Daylight Saving Time ends;Clock change/Daylight Saving Time
+2021 14 avr;mercredi;Ramadan Start;Observance
+2021 1 mai;samedi;Labour Day/May Day;National holiday
+2021 13 mai;jeudi;Eid al-Fitr;National holiday
+2021 14 mai;vendredi;Eid al-Fitr holiday;National holiday
+2021 16 mai;dimanche;Daylight Saving Time starts;Clock change/Daylight Saving Time
+2021 21 juin;lundi;June Solstice;Season
+2021 21 juil;mercredi;Eid al-Adha;National holiday
+2021 22 juil;jeudi;Eid al-Adha Holiday;National holiday
+2021 30 juil;vendredi;Feast of the Throne;National holiday
+2021 10 aoû;mardi;Hijra New Year;National holiday
+2021 14 aoû;samedi;Anniversary of the Recovery Oued Ed-Dahab;National holiday
+2021 20 aoû;vendredi;Anniversary of the Revolution of the King and the People;National holiday
+2021 21 aoû;samedi;Youth Day;National holiday
+2021 22 sep;mercredi;September Equinox;Season
+2021 19 oct;mardi;The Prophet Muhammad's Birthday;National holiday
+2021 20 oct;mercredi;The Prophet Muhammad's Birthday Holiday;National holiday
+2021 6 nov;samedi;Anniversary of the Green March;National holiday
+2021 18 nov;jeudi;Independence Day;National holiday
+2021 21 déc;mardi;December Solstice;Season
+2022 1 jan;samedi;New Year's Day;National holiday
+2022 11 jan;mardi;Anniversary of the Independence Manifesto;National holiday
+2022 14 jan;vendredi;Amazigh New Year;Observance
+2022 20 mar;dimanche;March Equinox;Season
+2022 27 mar;dimanche;Daylight Saving Time ends;Clock change/Daylight Saving Time
+2022 3 avr;dimanche;Ramadan Start;Observance
+2022 1 mai;dimanche;Labour Day/May Day;National holiday
+2022 2 mai;lundi;Eid al-Fitr;National holiday
+2022 3 mai;mardi;Eid al-Fitr holiday;National holiday
+2022 8 mai;dimanche;Daylight Saving Time starts;Clock change/Daylight Saving Time
+2022 21 juin;mardi;June Solstice;Season
+2022 10 juil;dimanche;Eid al-Adha;National holiday
+2022 11 juil;lundi;Eid al-Adha Holiday;National holiday
+2022 30 juil;samedi;Feast of the Throne;National holiday
+2022 30 juil;samedi;Hijra New Year;National holiday
+2022 14 aoû;dimanche;Anniversary of the Recovery Oued Ed-Dahab;National holiday
+2022 20 aoû;samedi;Anniversary of the Revolution of the King and the People;National holiday
+2022 21 aoû;dimanche;Youth Day;National holiday
+2022 23 sep;vendredi;September Equinox;Season
+2022 9 oct;dimanche;The Prophet Muhammad's Birthday;National holiday
+2022 10 oct;lundi;The Prophet Muhammad's Birthday Holiday;National holiday
+2022 6 nov;dimanche;Anniversary of the Green March;National holiday
+2022 18 nov;vendredi;Independence Day;National holiday
+2022 21 déc;mercredi;December Solstice;Season
+2023 1 jan;dimanche;New Year's Day;National holiday
+2023 11 jan;mercredi;Anniversary of the Independence Manifesto;National holiday
+2023 14 jan;samedi;Amazigh New Year;Observance
+2023 19 mar;dimanche;Daylight Saving Time ends;Clock change/Daylight Saving Time
+2023 20 mar;lundi;March Equinox;Season
+2023 23 mar;jeudi;Ramadan Start;Observance
+2023 22 avr;samedi;Eid al-Fitr;National holiday
+2023 23 avr;dimanche;Eid al-Fitr holiday;National holiday
+2023 23 avr;dimanche;Daylight Saving Time starts;Clock change/Daylight Saving Time
+2023 24 avr;lundi;Eid al-Fitr holiday;Government Holiday
+2023 1 mai;lundi;Labour Day/May Day;National holiday
+2023 21 juin;mercredi;June Solstice;Season
+2023 29 juin;jeudi;Eid al-Adha;National holiday
+2023 30 juin;vendredi;Eid al-Adha Holiday;National holiday
+2023 19 juil;mercredi;Hijra New Year;National holiday
+2023 30 juil;dimanche;Feast of the Throne;National holiday
+2023 14 aoû;lundi;Anniversary of the Recovery Oued Ed-Dahab;National holiday
+2023 20 aoû;dimanche;Anniversary of the Revolution of the King and the People;National holiday
+2023 21 aoû;lundi;Youth Day;National holiday
+2023 23 sep;samedi;September Equinox;Season
+2023 28 sep;jeudi;The Prophet Muhammad's Birthday;National holiday
+2023 29 sep;vendredi;The Prophet Muhammad's Birthday Holiday;National holiday
+2023 6 nov;lundi;Anniversary of the Green March;National holiday
+2023 18 nov;samedi;Independence Day;National holiday
+2023 22 déc;vendredi;December Solstice;Season
