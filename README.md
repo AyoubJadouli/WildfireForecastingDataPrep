@@ -1,8 +1,5 @@
 # Data
 
-## The Data wile be share in google drive because of it size:
-
-https://drive.google.com/drive/u/0/folders/0AHYeiVUMJCqWUk9PVA
 
 ## Data info:
 
